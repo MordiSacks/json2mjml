@@ -2,6 +2,7 @@
   "name": "json2mjml/json2mjml",
   "description": "Convert json to mjml",
   "version": "0.0.1",
+  "license": "MIT",
   "authors": [
     {
       "name": "Mordi Sacks"
