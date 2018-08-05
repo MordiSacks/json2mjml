@@ -1,0 +1,16 @@
+{
+  "name": "json2mjml/json2mjml",
+  "description": "Convert json to mjml",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Mordi Sacks"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Json2Mjml\\": "src/"
+    }
+  }
+}
